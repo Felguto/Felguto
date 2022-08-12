@@ -1,0 +1,93 @@
+.foto {
+    width: 300px;    
+}
+
+.foto-diferente {
+    width: 270px;
+}
+
+.tituloprincip {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-size: 4rem;
+}
+
+.titulo-centralizado {
+    text-align: center;
+    font-size: 35px;
+    background-color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(252, 132, 63);
+    font-family: Arial;
+}
+
+td {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 20px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 10px;
+    
+}
+
+h3 {
+    font-size: 2rem;
+    background-color: white;
+}
+
+.imag {
+    font-size: 2rem;
+    background-color: white;
+}
+
+.sit {
+    font-size: 30px;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+.names {
+    font-size: 25px;
+}
+
+.descr {
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.boli {
+    font-size: 18px;
+}
+
+.te {
+    font-size: 24px;
+}
+
+.foto1 {
+    width: 600px;
+}
+
+.Ass {
+    font-size: 12px;
+}
+
+.fotoe {
+    width: 600px;
+}
